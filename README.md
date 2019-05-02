@@ -2,7 +2,7 @@
 生物智能与算法课程作业
 
 ## Sole Member
-祝啸
+Xiao Zhu
 
 ## Project
 #### Topic

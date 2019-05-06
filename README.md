@@ -6,5 +6,5 @@ Xiao Zhu
 
 ## Project
 #### Topic
- Evolution Algorithm & Evolution Strategy
+ Evolution Algorithm
 * Research, Review and Experiment
